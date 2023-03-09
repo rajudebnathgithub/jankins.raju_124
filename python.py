@@ -1,4 +1,4 @@
-li=[1,2,3,4,5]
+li=[5,6,7,8,9]
 
 squares=[i**2 for i in li]
 
